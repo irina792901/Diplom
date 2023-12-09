@@ -1,8 +1,7 @@
 package ru.irinashipunova.mytic_tac_toe
 
 import androidx.appcompat.app.AppCompatActivity
-import android.os.Bundle
-import ru.irinashipunova.mytic_tac_toe.databinding.ActivityMainBinding
+
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding

@@ -6,6 +6,7 @@ import android.graphics.drawable.ColorDrawable
 import android.media.MediaPlayer
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.os.SystemClock
 import android.widget.ImageView
 import android.widget.TextView
 import ru.irinashipunova.mytic_tac_toe.databinding.ActivityGameBinding
