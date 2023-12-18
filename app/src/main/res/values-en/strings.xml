@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_continue_game">To continue game</string>
+    <string name="dialog_exit">Too save and exit</string>
+    <string name="dialog_settings">Settings</string>
+    <string name="dialog_status_draw">You win!</string>
+    <string name="dialog_status_lose">You lose!</string>
+    <string name="dialog_status_win">Draw!</string>
+    <string name="popup_close">Ok</string>
+    <string name="popup_title">To menu</string>
+    <string name="rules_diagonal">Diagonal raw</string>
+    <string name="rules_horizontal">Horizontal raw</string>
+    <string name="rules_vertical">Vertical raw</string>
+    <string name="settings_difficulty">Difficulty</string>
+    <string name="settings_rules">Rules of game</string>
+    <string name="settings_sound">Sound</string>
+    <string name="settings_to_back">To back</string>
+    <string name="title_continue_game">To continue game</string>
+    <string name="title_new_game">To new game</string>
+    <string name="title_settings">Settings</string>
+</resources>

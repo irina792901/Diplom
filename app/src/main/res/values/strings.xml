@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name" translatable="false">My Tic Tac Toe</string>
+    <string name="dialog_continue_game">Продолжить игру</string>
+    <string name="dialog_exit">Сохранить и выйти</string>
+    <string name="dialog_settings">Settings</string>
+    <string name="dialog_status_draw">You win!!</string>
+    <string name="dialog_status_lose">You lose</string>
+    <string name="dialog_status_win">Draw!</string>
+
+    <string name="popup_close">Ok</string>
+    <string name="popup_title">To menu</string>
+    <string name="preference_file_key" translatable="false">my.tic_tac_toe.file_key</string>
+    <string name="rules_diagonal">Diagonal rqw</string>
+    <string name="rules_horizontal">Horizontal raw</string>
+    <string name="rules_vertical">Vertical raw</string>
+    <string name="settings_difficulty">Difficukty</string>
+    <string name="settings_rules">Rulws of game</string>
+    <string name="settings_sound">Sound</string>
+    <string name="settings_to_back">To back</string>
+    <string name="title_continue_game">To continue game</string>
+    <string name="title_new_game">To new game</string>
+    <string name="title_settings">Settings</string>
+
+    <string-array name="level">
+        <item>ЛЕГКО</item>
+        <item>НОРМАЛЬНО</item>
+        <item>СЛОЖНО</item>
+    </string-array>
+</resources>
